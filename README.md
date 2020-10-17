@@ -1,16 +1,14 @@
 # Dev Writings
 
-A curated list of articles and bloggers to research the art of technical writing.
+A curated list of articles and bloggers to research the art of technical writing. Stories in simple words about deeply technical things.
 
 ### Articles
 
-Articles that tell stories in simple words about deeply technical things.
-- [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) by [vas3k](https://twitter.com/vas3kcom). An excellent example of a well-written technical article. Great illustrations
+- [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) by [vas3k](https://twitter.com/vas3kcom). An excellent example of a well-written technical article. Great illustrations.
 
 
 ### Bloggers
 
-Technical bloggers who put words in the right order.
 - [vas3k.com](https://vas3k.com/)
 - [tonsky.me](https://tonsky.me/)
 
