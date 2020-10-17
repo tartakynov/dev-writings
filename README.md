@@ -1,6 +1,6 @@
 # Dev Writings
 
-A curated list of developer articles and bloggers to research the art of technical writing.
+A curated list of articles and bloggers to research the art of technical writing.
 
 ### Articles
 
